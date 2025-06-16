@@ -1,0 +1,39 @@
+{
+    "name": "Gading Juniar Sayyidina",
+    "description": "",
+    "profileImage": "images/profile (2).jpg",
+    "email": "gadingjuniar61@gmail.com",
+    "phone": "+62 (895) 415-479941",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/gadingjuniarsayyidina"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/gadingjuniiar"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/gadingjuniiar/"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CV_Gading.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "PCB Design", "icon": "fas fa-microchip"},
+        {"name": "Internet of Things", "icon": "fas fa-wifi"},
+        {"name": "Microsoft Office", "icon": "fas fa-desktop"},
+	    {"name": "Programming", "icon": "fas fa-c"},
+        {"name": "PLC", "icon": "fab fa-p"},
+	    {"name": "Project Management", "icon": "fas fa-list-check"},
+	    {"name": "Problem Solving Skill", "icon": "fas fa-pen"},
+	    {"name": "Communication", "icon": "fas fa-language"},
+        {"name": "Adaptability", "icon": "fas fa-check"},
+        {"name": "Teamwork", "icon": "fas fa-person"},
+        {"name": "Leadership", "icon": "fas fa-check"}
+    ]
+}
