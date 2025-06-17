@@ -1,0 +1,41 @@
+[
+    {
+        "title": "Competitive Fund Program: PiDAQ",
+        "year": "2024",
+        "role": "Project Researcher",
+        "description": "PiDAQ (Polines IoT Data Acquisition), IoT-based industrial data acquisition module using industrial internet of things (IIoT) technology.",
+        "image": "images/project8.png"
+    },
+    {
+        "title": "Smart Glasses for the Blind With Proximity Sensors and GPS Based on the Internet Of Things",
+        "year": "2024",
+        "role": "Project Lead",
+        "description": "Innovative auxiliary tool for the blind that can be monitored through a device so that it can be petrified and keep users from hitting objects in front of them. ",
+        "image": "images/glasses.jpg",
+        "link": "docs/jurnal_glasses.pdf",
+        "file": "docs/jurnal_glasses.pdf"
+    },
+    {
+        "title": "Line Follower",
+        "year": "2024",
+        "role": "Project Researcher",
+        "description": "Designed and implemented an autonomous line-following robot using infrared sensors and Arduino microcontroller. The system was programmed to detect and follow a predefined path accurately, with real-time motor control based on sensor feedback. This project enhanced my skills in embedded systems, sensor integration, and basic robotics.",
+        "image": "images/linefollower.jpg"
+    },
+    {
+        "title": "IoT-based Hydroponic Monitoring",
+        "year": "2023",
+        "role": "Project Lead",
+        "description": "Provides accurate monitoring of environmental parameters such as humidity, temperature, soil pH, and nutrients, which are crucial for hydroponic plant growth.",
+        "image": "images/hydroponic.png",
+        "link": "docs/jurnal_glasses.pdf",
+        "file": "docs/jurnal_glasses.pdf"
+    },
+    {
+        "title": "Power Supply Current Amplifier Circuit",
+        "year": "2023",
+        "role": "Project Lead",
+        "description": "Developed a current amplifier circuit for a DC power supply using transistor-based configuration to increase current output capability. Designed to support higher load currents while maintaining stable voltage levels, this project improved my understanding of power electronics, and transistor biasing.",
+        "image": "images/penguatarus.png"
+    }
+]
